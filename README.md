@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Sejaoo&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-    <img src="[https://streak-stats.demolab.com?user=Sejaoo&theme=transparent&hide_border=true&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat](https://github-readme-streak-stats-Sejaoo.vercel.app?user=Xiaokang2022&theme=transparent&hide_border=true)" alt="Streak Stats" title="Streak Stats"/>
+    
 </p>
 <p align="center">
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sejaoo&theme=github-compact&hide_border=true&area=true" />
