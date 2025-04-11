@@ -12,7 +12,7 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Sejaoo&theme=github-compact&hide_border=true&area=true" />
 </p>
 <p align="center">
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,md,react,git,vite,webpack,tailwindcss,antdesign,bootstrap,Angular&titles=true" alt="skills" title="skills" />
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,md,react,git,vite,webpack,tailwindcss,antdesign,bootstrap&titles=true" alt="skills" title="skills" />
 </p>
 <p align="center">
     <a href="https://github.com/Sejaoo"><img src="https://img.shields.io/badge/GitHub-Sejaoo-blue?logo=github" alt="GitHub" title="GitHub" /></a>
